@@ -8,5 +8,9 @@ def batch_badge_creator=["Edsger","Ada", "Charles", "Alan", "Grace", "Linus", "M
       puts "Hello, #{name}! You'll be assigned to room #{room number}!"
     end 
     
-    
+  def printer(assign_rooms)(batch_badge_creator)
+    puts and prints #{name}#{room number}
+  end 
+  
+  
     
